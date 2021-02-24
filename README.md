@@ -1,2 +1,2 @@
 # Web-Scrapping
-Simple Webscrapping to Kompas Website
+Simple Webscrapping to several websites.
